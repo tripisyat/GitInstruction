@@ -24,7 +24,14 @@ git add filename.md
 git commit -m "Message for commit"
 ```
 ## Перемещение между сохранениями
-
+Для перемещения между сохранениями (commit) набрать
+```sh
+git checkout хэш коммита
+```
+Для перемещения между ветками набрать
+```sh
+git checkout branch_name
+```
 ## Журнал изменений
 
 ## Ветки в git
