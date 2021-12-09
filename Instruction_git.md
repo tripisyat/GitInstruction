@@ -72,7 +72,10 @@ git merge branch_name_for_merge
 git merge branch_name_for_merge -m "Message for commit"
 ```
 ### Удаление веток
-
+Для удаления ветки выполнить
+```sh
+git branch -d branch_name
+```
 ## Заметки
 Для того чтобы очиcтить терминал набирите
 ```sh
