@@ -46,7 +46,22 @@ git log --oneline
 git log --oneline --graph
 ```
 ## Ветки в git
-
+Создать новую ветку
+```sh
+git branch branch_name
+```
+Вывести список всех имеющихся веток
+```sh
+git branch
+```
+Перейти на нужную ветку
+```sh
+git checkout branch_name
+```
+Создать ветку и сразу на неё перейти
+```sh
+git checkout -b branch_name
+```
 ### Слияние веток
 
 ### Удаление веток
