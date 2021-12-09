@@ -63,7 +63,14 @@ git checkout branch_name
 git checkout -b branch_name
 ```
 ### Слияние веток
-
+Для слияния веток обе ветки должны быть закоммичены! Необходимо перейти в ветку в которую будешь вливать и из неё выполнить
+```sh
+git merge branch_name_for_merge
+```
+Если вдруг какая то ветка не закомичена, можно при сливании сразу закоммитеть
+```sh
+git merge branch_name_for_merge -m "Message for commit"
+```
 ### Удаление веток
 
 ## Заметки
