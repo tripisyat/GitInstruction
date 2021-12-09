@@ -1,5 +1,5 @@
 # Инструкция по работе с GIT
-
+Текст в introtext
 ## Что такое git
 Это система для конироля версионности.
 [Wiki ссылка](https://ru.wikipedia.org/wiki/Git)
