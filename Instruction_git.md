@@ -76,7 +76,9 @@ git merge branch_name_for_merge -m "Message for commit"
 git branch -d branch_name
 ```
 # Работа с GitHub
+
 **Git** - программа (терминал) на компьютере
+
 **GitHub** - удаленный сервис, который позволяет хранить репозитории в облаке
 1. Создаем аккаунт на GitHub
 2. Можно авторизоваться в VS code, используя логин и пароль GitHub
